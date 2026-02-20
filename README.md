@@ -57,7 +57,7 @@ Passionate about clean architecture, system design, performance optimization, an
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://gitmystat.vercel.app/api?username=Gedeon-gills&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gedeon-gills&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
